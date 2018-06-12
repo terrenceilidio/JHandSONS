@@ -15,7 +15,7 @@
 } 
 
 .card{
-    background-color: darkgray;
+    background-color:#b1bfbf;
    z-index:99;
 }
 
@@ -56,4 +56,16 @@ h3,h4{
  border:solid;
 
 
+}
+
+#iTxt{
+    position: absolute;
+    top:0;
+    left:0;
+}
+
+#sDesigns{
+    position:relative;
+    top:0;
+    left:0;
 }
