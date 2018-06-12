@@ -28,9 +28,10 @@
 .buttons{
     padding-top: 10px;
     text-align: center;
-    font-family: Times New Roman;
+    font-family: palatino;
     font-size: 20px;
     border-radius: 12px;
+   
 }
 
 #about{
@@ -40,4 +41,19 @@
     background-image: url('/images/about.jpg');
     background-size: cover;
     background-repeat: no-repeat;
+}
+
+h3,h4{
+    color:#4286f4;
+}
+
+
+#ceo{
+
+ height: 150px;
+ width: 100px;
+ text-align: center;
+ border:solid;
+
+
 }
